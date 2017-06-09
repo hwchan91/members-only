@@ -1,0 +1,9 @@
+<li id="micropost-<%= post.id %>">
+  <% if logged_in? %>
+    <span class="user"><%= post.user.username %></span>
+  <% end %>
+  <span class="content"><%= post.content %></span>
+  <span class="timestamp">
+    Posted <%= time_ago_in_words(post.created_at) %> ago.
+  </span>
+</li>
