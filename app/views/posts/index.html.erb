@@ -1,5 +1,9 @@
 <h1>All posts</h1>
 
+<div><%= link_to "Create New Post", new_post_path, class: "btn btn-primary", style: "float: right;" %></div>
+
+<div>
 <ul class="microposts">
   <%= render @posts %>
 </ul>
+</div>
