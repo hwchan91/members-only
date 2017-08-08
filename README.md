@@ -1,24 +1,20 @@
-# README
+# Members Only Clubhouse Forum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An exclusive clubhouse where members can write embarrassing posts about non-members. Inside the clubhouse, members can see who the author of a post is but, outside, they can only see the story and wonder who wrote it.
 
-Things you may want to cover:
+Link to website: https://mastermind-hwchan91.herokuapp.com
 
-* Ruby version
 
-* System dependencies
+## Built With
 
-* Configuration
+* Ruby on Rails
 
-* Database creation
 
-* Database initialization
+## Author
 
-* How to run the test suite
+* **Dion, Chan Hin Won** -  [hwchan91](https://github.com/hwchan91)
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Acknowledgements
 
-* ...
+* This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication)
